@@ -19,7 +19,7 @@ Welcome! This repository is my personal collection of AI concepts explained thro
 
 | Day | Concept | Infographic |
 |-----|---------|-------------|
-| 01  | What is Artificial Intelligence? | [View](images/day01-what-is-ai.png) |
+| 01  | What is Artificial Intelligence? | [View](what-is-ai.png) |
 | 02  | Machine Learning Basics | [View](images/day02-ml-basics.png) |
 | 03  | Neural Networks Explained | [View](images/day03-neural-networks.png) |
 
