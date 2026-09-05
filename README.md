@@ -20,7 +20,7 @@ Welcome! This repository is my personal collection of AI concepts explained thro
 | Day | Concept | Infographic |
 |-----|---------|-------------|
 | 01  | What is Artificial Intelligence? | [View](images/01-what-is-ai.png.png ) |
-| 02  | Main Fields of AI  | [View](day02-Main-Fields-of-AI.png) |
+| 02  | Main Fields of AI  | [View](images/day02-Main-Fields-of-AI) |
 | 03  | Neural Networks Explained | [View](images/day03-neural-networks.png) |
 
 *(Keep adding new rows here as you add new concepts)*
@@ -33,7 +33,7 @@ Welcome! This repository is my personal collection of AI concepts explained thro
 ![What is AI](images/01-what-is-ai.png.png )
 
 ### Main Fields of AI 
-![Main Fields](day02-Main-Fields-of-AI.png)
+![Main Fields](images/day02-Main-Fields-of-AI.png)
 
 ### Day 03: Neural Networks Explained
 ![Neural Networks](images/day03-neural-networks.png)
