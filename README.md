@@ -30,7 +30,7 @@ Welcome! This repository is my personal collection of AI concepts explained thro
 ## 🖼️ Infographics Gallery
 
 ### Day 01: What is Artificial Intelligence?
-![What is AI](images/day01-what-is-ai.png)
+![What is AI](images/01-what-is-ai.png.png )
 
 ### Day 02: Machine Learning Basics
 ![ML Basics](images/day02-ml-basics.png)
