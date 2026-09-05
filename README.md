@@ -36,7 +36,7 @@ My goal is not only to learn AI, but also to share useful knowledge with others.
 
 ### Day 01 — What is Artificial Intelligence?
 
-![What is AI](images/01-what-is-ai.png)
+![What is AI](images/01-what-is-ai.png )
 
 **Key idea:**  
 Artificial Intelligence is the field of creating systems that can perform tasks that normally require human intelligence.
