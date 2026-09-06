@@ -51,8 +51,11 @@ Artificial Intelligence is the field of creating systems that can perform tasks 
 AI includes several important fields such as Computer Vision, AI Speech, Natural Language Processing, Data Extraction & Insights, Generative AI, and Responsible AI.
 
 ---
+### Day 03 — The Rules of Resopnsible AI
 
-![The Rules of Resopnsible AI](images/day3-Responsible-AI)
+![The Rules of Resopnsible AI](images/day3-Responsible-AI.png)
+
+---
 
 **Key idea:**  
 Responsible AI means creating and using AI in a way that is fair, transparent safe and beneficial for everyone.
