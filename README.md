@@ -4,9 +4,9 @@
 
 Welcome to my personal collection of AI learning notes and infographics.
 
-Every day, I choose an AI concept, learn it deeply, understand it in simple terms, and turn it into a clean visual infographic.
+Every day, I choose an AI concept, learn and understand it in simple terms, and turn it into a clear visual infographic.
 
-My goal is not only to learn AI, but also to share useful knowledge with others.
+My goal is not only to strengthen my own AI knowledge but also to share useful knowledge with others.
 
 ---
 
@@ -23,53 +23,14 @@ My goal is not only to learn AI, but also to share useful knowledge with others.
 
 ## 📖 Table of Contents
 
-| Day | Concept |
-|-----|---------|
-| 01 | What is Artificial Intelligence? |
-| 02 | The 6 Main Fields of AI |
-| 03 | The Main Rules of Responsible AI |
-| 04 | What is Machine Learning?|
-
+| Day | Concept | Infographic |
+|-----|---------|-------------|
+| 01 | What is Artificial Intelligence? | [View](images/day01-What-is-AI.png) |
+| 02 | The 6 Main Fields of AI | [View](images/day02-Main-Fields-of-AI.png) |
+| 03 | Responsible AI | [View](images/day03-Responsible-AI.png) |
+| 04 | What is Machine Learning? | Coming Soon |
 
 > 🔄 This table will grow as new concepts are added.
-
----
-
-## 🖼️ Infographics Gallery
-
-### Day 01 — What is Artificial Intelligence?
-
-![What is AI](images/01-what-is-ai.png.png )
-
-**Key idea:**  
-Artificial Intelligence is the field of creating systems that can perform tasks that normally require human intelligence.
-
----
-
-### Day 02 — The 6 Main Fields of AI
-
-![The 6 Main Fields of AI](images/day02-Main-Fields-of-AI.png)
-
-**Key idea:**  
-AI includes several important fields such as Computer Vision, AI Speech, Natural Language Processing, Data Extraction & Insights, Generative AI, and Responsible AI.
-
----
-### Day 03 — The Rules of Resopnsible AI
-
-![The Rules of Resopnsible AI](images/day3-Responsible-AI.png)
-
-
-**Key idea:**  
-Responsible AI means creating and using AI in a way that is fair, transparent safe and beneficial for everyone.
-
---- 
-### Day 04 — What is Machine Learning? 
-
-![The Rules of Resopnsible AI](images/machine-learning-infographic.png)
-
-
-**Key idea:**  
-Machine Learning is a foundation of Artificial intelligence.
 
 ---
 
@@ -87,9 +48,10 @@ Machine Learning is a foundation of Artificial intelligence.
 
 ## 🌱 Progress
 
-- ✅ Concepts covered so far: **4**
-- 🎯 Goal: Keep learning and adding one concept at a time
-- 📚 Purpose: Build a strong foundation in AI
+- ✅ Concepts covered so far: **3**
+- 🎯 Next concept: **What is Machine Learning?**
+- 📚 Goal: Keep learning and adding one concept at a time
+- 🚀 Journey: Building a strong foundation in AI
 
 > **One concept may look small, but many concepts build strong knowledge.**
 
@@ -108,7 +70,7 @@ Feel free to explore, learn along, or suggest an AI concept you'd like to see ex
 
 If these learning resources are useful to you, consider giving the repository a ⭐ **Star**.
 
-Your support is appreciated and motivates me to keep learning and sharing.
+Your support motivates me to keep learning and sharing.
 
 ---
 
