@@ -27,6 +27,9 @@ My goal is not only to learn AI, but also to share useful knowledge with others.
 |-----|---------|
 | 01 | What is Artificial Intelligence? |
 | 02 | The 6 Main Fields of AI |
+| 03 | The Main Rules of Responsible AI |
+| 04 | What is Machine Learning?|
+
 
 > 🔄 This table will grow as new concepts are added.
 
@@ -55,7 +58,6 @@ AI includes several important fields such as Computer Vision, AI Speech, Natural
 
 ![The Rules of Resopnsible AI](images/day3-Responsible-AI.png)
 
----
 
 **Key idea:**  
 Responsible AI means creating and using AI in a way that is fair, transparent safe and beneficial for everyone.
@@ -65,7 +67,6 @@ Responsible AI means creating and using AI in a way that is fair, transparent sa
 
 ![The Rules of Resopnsible AI](images/machine-learning-infographic.png)
 
----
 
 **Key idea:**  
 Machine Learning is a foundation of Artificial intelligence.
@@ -86,7 +87,7 @@ Machine Learning is a foundation of Artificial intelligence.
 
 ## 🌱 Progress
 
-- ✅ Concepts covered so far: **2**
+- ✅ Concepts covered so far: **4**
 - 🎯 Goal: Keep learning and adding one concept at a time
 - 📚 Purpose: Build a strong foundation in AI
 
