@@ -31,6 +31,7 @@ My goal is not only to strengthen my own AI knowledge but also to share useful k
 | 04 | What is Machine Learning? |[View](images/machine-learning-infographic.png ) |
 | 05 | ML Dataset & it's Types? |[View](images/dataset-types-infographic.png) |
 | 06 | Machine Learning Workflow |[View](images/Machine-learning-workflow.jpg ) |
+| 07 | Labelled Dataset | [View](images/grok_1788694595279.jpg) |
 
 > 🔄 This table will grow as new concepts are added.
 
