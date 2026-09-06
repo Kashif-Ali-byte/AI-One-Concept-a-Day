@@ -60,7 +60,7 @@ Concepts are organized by learning stage, so it's easy to follow along in order.
 
 ## 🌱 Progress
 
-- ✅ Concepts covered so far: **4**
+- ✅ Concepts covered so far: **9**
 - 🎯 Next concept: **What is Machine Learning?**
 - 📚 Goal: Keep learning and adding one concept at a time
 - 🚀 Journey: Building a strong foundation in AI
