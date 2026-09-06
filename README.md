@@ -36,9 +36,9 @@ Concepts are organized by learning stage, so it's easy to follow along in order.
 ### 📌 [Day 04 — What is Machine Learning?](images/machine-learning-infographic.png)
 ### 📌 [Day 05 — ML Dataset & it's Types?](images/dataset-types-infographic.png)
 ### 📌 [Day 06 — Machine Learning Workflow](images/Machine-learning-workflow.jpg)
-### 📌 [Day 07 — Labelled Dataset](images/grok_1788694595279.jpg)
-### 📌 [Day 08 — Machine Learning Model](images/machine-learning-model.jpg)
-### 📌 [Day 09 — Machine Learning Algorithm](images/machine-learning-algorithms.jpg)
+### 📌 [Day 07 — What is Labelled Dataset?](images/grok_1788694595279.jpg)
+### 📌 [Day 08 — What is Machine Learning Model?](images/machine-learning-model.jpg)
+### 📌 [Day 09 — What is Machine Learning Algorithm?](images/machine-learning-algorithms.jpg)
 
 > 🔄 This list will grow as new concepts are added.
 
