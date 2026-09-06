@@ -33,6 +33,7 @@ My goal is not only to strengthen my own AI knowledge but also to share useful k
 | 06 | Machine Learning Workflow |[View](images/Machine-learning-workflow.jpg ) |
 | 07 | Labelled Dataset | [View](images/grok_1788694595279.jpg) |
 | 08 | Machine Learning Model | [View](images/machine-learning-model.jpg) |
+| 09 | Machine Learning Algorithm | [View](images/machine-learning-algorithms.jpg) |
 
 > 🔄 This table will grow as new concepts are added.
 
