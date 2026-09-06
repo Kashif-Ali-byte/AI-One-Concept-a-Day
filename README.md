@@ -28,8 +28,8 @@ My goal is not only to strengthen my own AI knowledge but also to share useful k
 | 01 | What is Artificial Intelligence? | [View](images/01-what-is-ai.png.png) |
 | 02 | The 6 Main Fields of AI | [View](images/day02-Main-Fields-of-AI.png) |
 | 03 | Responsible AI | [View](images/day3-Responsible-AI.png) |
-| 04 | What is Machine Learning? |[View](images/machine-learning-infographic.png) |
-| 05 | Machine Learning Dataset & it's Types? |[View](dataset-types-infographic) |
+| 04 | What is Machine Learning? |[View](images/machine-learning-infographic) |
+| 05 | Machine Learning Dataset & it's Types? |[View](image/dataset-types-infographic) |
 
 
 > 🔄 This table will grow as new concepts are added.
