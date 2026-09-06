@@ -60,6 +60,18 @@ AI includes several important fields such as Computer Vision, AI Speech, Natural
 **Key idea:**  
 Responsible AI means creating and using AI in a way that is fair, transparent safe and beneficial for everyone.
 
+--- 
+### Day 04 — What is Machine Learning? 
+
+![The Rules of Resopnsible AI](images/machine-learning-infographic.png)
+
+---
+
+**Key idea:**  
+Machine Learning is a foundation of Artificial intelligence.
+
+---
+
 ## 🛠️ How I Create These
 
 1. 📌 Choose one AI concept
