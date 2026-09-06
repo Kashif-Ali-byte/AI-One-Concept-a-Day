@@ -25,24 +25,22 @@ My goal is not only to strengthen my own AI knowledge but also to share useful k
 
 Concepts are organized by learning stage, so it's easy to follow along in order.
 
-### 🟦 Foundations
+### 🟦 Foundation Of AI 
 > The basic building blocks every AI journey starts with.
-> 
+>
 ## 📖 Table of Contents
 
-| Day | Concept | Infographic |
-|-----|---------|-------------|
-| 01 | What is Artificial Intelligence? | [View](images/01-what-is-ai.png.png) |
-| 02 | The 6 Main Fields of AI | [View](images/day02-Main-Fields-of-AI.png) |
-| 03 | Responsible AI | [View](images/day3-Responsible-AI.png) |
-| 04 | What is Machine Learning? |[View](images/machine-learning-infographic.png ) |
-| 05 | ML Dataset & it's Types? |[View](images/dataset-types-infographic.png) |
-| 06 | Machine Learning Workflow |[View](images/Machine-learning-workflow.jpg ) |
-| 07 | Labelled Dataset | [View](images/grok_1788694595279.jpg) |
-| 08 | Machine Learning Model | [View](images/machine-learning-model.jpg) |
-| 09 | Machine Learning Algorithm | [View](images/machine-learning-algorithms.jpg) |
+### 📌 [Day 01 — What is Artificial Intelligence?](images/01-what-is-ai.png.png)
+### 📌 [Day 02 — The 6 Main Fields of AI](images/day02-Main-Fields-of-AI.png)
+### 📌 [Day 03 — Responsible AI](images/day3-Responsible-AI.png)
+### 📌 [Day 04 — What is Machine Learning?](images/machine-learning-infographic.png)
+### 📌 [Day 05 — ML Dataset & it's Types?](images/dataset-types-infographic.png)
+### 📌 [Day 06 — Machine Learning Workflow](images/Machine-learning-workflow.jpg)
+### 📌 [Day 07 — Labelled Dataset](images/grok_1788694595279.jpg)
+### 📌 [Day 08 — Machine Learning Model](images/machine-learning-model.jpg)
+### 📌 [Day 09 — Machine Learning Algorithm](images/machine-learning-algorithms.jpg)
 
-> 🔄 This table will grow as new concepts are added.
+> 🔄 This list will grow as new concepts are added.
 
 ---
 
