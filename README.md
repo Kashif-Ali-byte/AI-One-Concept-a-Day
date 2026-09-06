@@ -25,7 +25,7 @@ My goal is not only to strengthen my own AI knowledge but also to share useful k
 
 Concepts are organized by learning stage, so it's easy to follow along in order.
 
-### 🟦 Foundation Of AI 
+### 🟦 Lecture 1-Foundation Of AI 
 > The basic building blocks every AI journey starts with.
 >
 ## 📖 Table of Contents
