@@ -21,6 +21,24 @@ My goal is not only to strengthen my own AI knowledge but also to share useful k
 
 ---
 
+## 🗂️ Categories
+
+Concepts are organized by learning stage, so it's easy to follow along in order.
+
+### 🟦 Foundations
+> The basic building blocks every AI journey starts with.
+
+| Day | Concept | Summary | Infographic |
+|-----|---------|---------|-------------|
+| 01 | **What is Machine Learning?** | Computers that learn patterns from data and improve automatically. | [View](images/day01-machine-learning.png) |
+| 02 | **Dataset & Types of Dataset** | The organized data collections every model is trained, validated, and tested on. | [View](images/day02-dataset-types.png) |
+
+### 🟪 Machine Learning
+> *(Concepts will be added here as the journey continues)*
+
+### 🟥 Deep Learning
+> *(Concepts will be added here as the journey continues)*
+
 ## 📖 Table of Contents
 
 | Day | Concept | Infographic |
