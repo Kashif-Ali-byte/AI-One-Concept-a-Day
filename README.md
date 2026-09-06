@@ -52,6 +52,11 @@ AI includes several important fields such as Computer Vision, AI Speech, Natural
 
 ---
 
+![The Rules of Resopnsible AI](images/day3-Responsible-AI)
+
+**Key idea:**  
+Responsible AI means creating and using AI in a way that is fair, transparent safe and beneficial for everyone.
+
 ## 🛠️ How I Create These
 
 1. 📌 Choose one AI concept
